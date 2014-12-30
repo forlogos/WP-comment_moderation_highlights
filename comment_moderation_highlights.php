@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Comment Moderation Highlights
-  Plugin URI: https://github.com/theantichris/wordpress-plugin-boilerplate
+  Plugin URI: https://github.com/forlogos/WP-comment_moderation_highlights
   Description: Highlight comments in the comments admin of WordPress
   Version: 1.0
   Author: forlogos
