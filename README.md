@@ -30,7 +30,7 @@ Or manually by:
 1. Upload the whole plugin folder folder to your '/wp-content/plugins/' directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
-# # NOTES
+## NOTES
 
 1. The options for setting comment moderation highlights will appear in Settings > Discussion
 1. See the plugin in the WordPress repository for more info: [Comment Moderation Highlights](https://wordpress.org/plugins/comment-moderation-highlights/)

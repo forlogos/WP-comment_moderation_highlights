@@ -3,8 +3,8 @@ Contributors: forlogos
 Donate link: http://jasonjalbuena.com/donate/
 Tags: comments, moderation
 Requires at least: 3.9.2
-Tested up to: 4.1
-Stable tag: 1.0
+Tested up to: 6.0.2
+Stable tag: 1.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -59,11 +59,17 @@ The main goal of this plugin is to help comment moderators. Comments can be high
 
 == Changelog ==
 
+= 1.1 =
+* make sure highlighted color shows in the comments page
+
 = 1.0 =
 * Initial release
 
 
 == Upgrade Notice ==
+
+= 1.1 =
+Version 1.1 make sure highlighted color shows in the comments page
 
 = 1.0 =
 Version 1. No upgrades yet.

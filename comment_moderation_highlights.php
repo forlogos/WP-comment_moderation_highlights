@@ -3,7 +3,7 @@
   Plugin Name: Comment Moderation Highlights
   Plugin URI: https://github.com/forlogos/WP-comment_moderation_highlights
   Description: Highlight comments in the comments admin of WordPress
-  Version: 1.0
+  Version: 1.1
   Author: forlogos
   Author URI: http://jasonjalbuena.com
   License: GPL V3
@@ -138,7 +138,7 @@ class flgs_comment_moderation_highlight {
 					//let's only do this if $what isn't empty
 					if($what!='' && $what!=' ') {
 						//make a css rule for each type of highlight
-						echo '.cmh_'.$type.'_'.$i.' {background:'.$color.';}';
+						echo '.cmh_'.$type.'_'.$i.' {background:'.$color.' !important;}';
 						$i++;
 					}
 				}
